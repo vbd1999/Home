@@ -2,7 +2,7 @@ public class Bank
 {
 
 
-public String address;
+private String address;
 private String name;
 
 
