@@ -1,0 +1,9 @@
+public class Bank
+{
+
+private Integer id;
+public String address;
+private String name;
+
+
+}
